@@ -1,31 +1,42 @@
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
+
   // Copy CSS folder to output
   eleventyConfig.addPassthroughCopy("css");
 
-  // Helper function to get sortable title
-  function getArticleTitle(item) {
-    if (!item.data.title) return ""; // no title
-    return typeof item.data.title === "string" ? item.data.title : item.data.title.article || "";
+  // Helper: get a sortable title string
+  function getSortableTitle(item) {
+    if (!item.data || !item.data.title) return "";
+
+    if (typeof item.data.title === "string") {
+      return item.data.title;
+    }
+
+    // title object: { article, book }
+    return item.data.title.article || item.data.title.book || "";
   }
 
   // Collection: Critical Theory
-  eleventyConfig.addCollection("criticalTheory", function(collectionApi) {
+  eleventyConfig.addCollection("criticalTheory", function (collectionApi) {
     return collectionApi.getAll()
       .filter(item => item.data.section === "critical-theory")
-      .sort((a, b) => getArticleTitle(a).localeCompare(getArticleTitle(b)));
+      .sort((a, b) =>
+        getSortableTitle(a).localeCompare(getSortableTitle(b))
+      );
   });
 
   // Collection: Poetry Analysis
-  eleventyConfig.addCollection("poetryAnalysis", function(collectionApi) {
+  eleventyConfig.addCollection("poetryAnalysis", function (collectionApi) {
     return collectionApi.getAll()
       .filter(item => item.data.section === "poetry")
-      .sort((a, b) => getArticleTitle(a).localeCompare(getArticleTitle(b)));
+      .sort((a, b) =>
+        getSortableTitle(a).localeCompare(getSortableTitle(b))
+      );
   });
 
   return {
     dir: {
-      input: ".",      // your content root
-      output: "_site"  // Eleventy output folder
+      input: ".",
+      output: "docs" // ✅ GitHub Pages compatible
     }
   };
 };
