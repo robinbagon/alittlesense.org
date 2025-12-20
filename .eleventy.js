@@ -1,13 +1,13 @@
 module.exports = function (eleventyConfig) {
 
-  // Copy CSS through
+  // Copy CSS folder to output
   eleventyConfig.addPassthroughCopy("css");
 
-  // Helper: safe sortable title
-  function getArticleTitle(item) {
+  // Helper to get sortable title
+  function getSortableTitle(item) {
     if (!item.data.title) return "";
     if (typeof item.data.title === "string") return item.data.title;
-    return item.data.title.article || "";
+    return item.data.title.article || item.data.title.book || "";
   }
 
   // Critical Theory collection
@@ -15,24 +15,23 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getAll()
       .filter(item => item.data.section === "critical-theory")
       .sort((a, b) =>
-        getArticleTitle(a).localeCompare(getArticleTitle(b))
+        getSortableTitle(a).localeCompare(getSortableTitle(b))
       );
   });
 
-  // Poetry collection
+  // Poetry Analysis collection
   eleventyConfig.addCollection("poetryAnalysis", function (collectionApi) {
     return collectionApi.getAll()
       .filter(item => item.data.section === "poetry")
       .sort((a, b) =>
-        getArticleTitle(a).localeCompare(getArticleTitle(b))
+        getSortableTitle(a).localeCompare(getSortableTitle(b))
       );
   });
 
   return {
-    pathPrefix: "/",      // 👈 IMPORTANT for custom domain
     dir: {
       input: ".",
-      output: "docs"      // GitHub Pages requirement
+      output: "docs" // IMPORTANT for GitHub Pages
     }
   };
 };
