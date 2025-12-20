@@ -1,0 +1,75 @@
+---
+title: "A Little Sense"
+layout: base.njk
+---
+
+<header class="homepage-header">
+  <h1>{{ title }}</h1>
+  <p>Welcome to <em>A Little Sense</em>, a collection of essays on critical theory and poetry analysis.</p>
+</header>
+
+<main class="homepage-main">
+
+  <!-- Critical Theory Section -->
+  <section class="section critical-theory">
+    <h2>Critical Theory</h2>
+    <ul class="article-list">
+      {% for post in collections.criticalTheory %}
+
+        {# Build display title #}
+        {% set displayTitle = "" %}
+        {% if post.data.title is string %}
+          {% set displayTitle = post.data.title %}
+        {% elseif post.data.title is mapping %}
+          {% if post.data.title.article %}
+            {% set displayTitle = '"' ~ post.data.title.article ~ '" ' %}
+          {% endif %}
+          {% if post.data.title.book %}
+            {% set displayTitle = displayTitle ~ '<em>' ~ post.data.title.book ~ '</em>' %}
+          {% endif %}
+        {% endif %}
+
+        <li class="article-item">
+          <a class="article-title" href="{{ post.url }}">{{ displayTitle | safe }}</a>
+
+          {% if post.data.author %}
+            <span class="author">by {{ post.data.author }}</span>
+          {% endif %}
+
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <!-- Poetry Analysis Section -->
+  <section class="section poetry">
+    <h2>Poetry Analysis</h2>
+    <ul class="article-list">
+      {% for post in collections.poetryAnalysis %}
+
+        {# Build display title #}
+        {% set displayTitle = "" %}
+        {% if post.data.title is string %}
+          {% set displayTitle = post.data.title %}
+        {% elseif post.data.title is mapping %}
+          {% if post.data.title.article %}
+            {% set displayTitle = '"' ~ post.data.title.article ~ '" ' %}
+          {% endif %}
+          {% if post.data.title.book %}
+            {% set displayTitle = displayTitle ~ '<em>' ~ post.data.title.book ~ '</em>' %}
+          {% endif %}
+        {% endif %}
+
+        <li class="article-item">
+          <a class="article-title" href="{{ post.url }}">{{ displayTitle | safe }}</a>
+
+          {% if post.data.author %}
+            <span class="author">by {{ post.data.author }}</span>
+          {% endif %}
+
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+</main>

@@ -1,0 +1,75 @@
+---
+date: 2024-05-20
+description: "Detailed summary and analysis of Foucault's essay"
+tags: [ The Order of Discourse, summary, "critical-theory"]
+title:
+  article: "The Order of Discourse"
+  book: 
+  year: 1971
+author: "Michel Foucault"
+section: critical-theory
+pageTitle: 'alittlesense.org - The Order of Discourse' 
+abstract: ""
+layout: base.njk
+---
+
+In her book on discourse, Sara Mills observes that the word “has perhaps the widest range of possible significations of any term in literary and cultural theory.” Not a promising start then. And it is no wonder that students find it difficult to articulate exactly what discourse is.
+
+Even Foucault acknowledges that he uses the term in three separate senses; “treating it sometimes as the general domain of all statements, sometimes as an individualizable group of statements, and sometimes as a regulated practice that accounts for a number of statements.”
+
+The first definition takes discourse to mean the space in which meaningful statements can be made. In other words, any text or speech that is not nonsense. The second definition is narrower, defining discourse as a set of statements which can be grouped together. So we could think of the discourse of capitalism – the set of ideas which make sense within and comprise the ideology of capitalism. The final sense refers to the forces, prohibitions and permissions which allow for a set of statements to come to light and to make sense.
+
+The final sense is the most complex. In this understanding, a discourse is not just the sentences which we read or hear, but also the conditions which allow these sentences to be written in the first place; the sets of rules which permit the utterances to be made. In this sense, discourses are both restrictive and productive; they forbid certain things from being said, but also produce a space for the flourishing of others.
+
+We can think of the discourse of climate change in terms of the third definition. The discourse provides a legitimate space for the scientific discussion of the ways in which human activity is affecting the earth’s climate. Legitimate statements include discussions of climate data, theoretical proposals of climate mechanisms and projections of future climatic events. On the other hand, the discourse would not permit certain statements about the climate to be made. One could not invoke God’s wrath as the cause of climate change for example.
+
+The important point here, and one that Foucault stresses, is that discourse is not what he calls “transparent or neutral.” In other words, discourse is not an impartial space in which any and all ideas can be expressed. Instead, discourse plays a role in determining what is said. In this sense, discourse works in two contradictory ways. On the one hand, it provides a space for things to be said, for new ideas to be expressed, but on the other hand, it conditions and limits those utterances. Moreover, since legitimate speech can only be made as part of a discourse, there is no way to speak that is not already under the influence of one discourse or another. Foucault is interested, then, in describing some of the major ways in which discourse exercises powerful limitations on what can be said and on who can say it.
+
+## External limitations
+
+“The Order of Discourse” includes the following hypothesis: “in every society the production of discourse is at once controlled, selected, organized and redistributed by a certain number of procedures whose role is to ward off its powers and dangers, to gain mastery over its chance events, to evade its ponderous, formidable materiality.” Here, “discourse” seems to mean language use in general and Foucault is pointing to various forces, outside of discourse which exert control over what can and cannot be said or written. Specifically, three systems exclude certain types of speech: speech can be excluded when it is deemed taboo; speech can be excluded when it is deemed mad; and speech can be excluded when it is deemed false.
+
+On the question of taboo, Foucault notes that these sorts of prohibitions are always changing. Writing in 1971, he identifies sexuality and politics as taboo subjects. According to Foucault, these prohibitions demonstrate just how much power is exercised by taboo subjects; the fact that one is not permitted to openly discuss these subjects is testament to their privileged position.
+
+Madness is a major interest for Foucault in general and in this text he observes that for speech to count, it must not be considered mad. Mad speech, the speech of the mad, is, as Foucault puts it, “null and void.” In other words, we can imagine a kind of triage which divides all speech into one of two categories: rational or mad. Speech which is deemed mad is “taken for mere noise.” Mad words are not even words – certainly one does not need to pay them any attention. 
+
+The significance of this again relates to power. To declare someone mad is to remove their ability to speak. The mad have no voice since their words are not considered words. Ultimately they have no power, nor do they have the means to redeem themselves. On the other side of the dichotomy, for speech to be heard, it must be rational. Being reasonable is a minimal requirement for speaking. Yet reason is not neutral or transparent. Reason is a set of conventions which preside over what can and cannot be said and hence brings with it a set of prohibitions. Making sense is about successfully following the rules of reason.   
+
+The third system of exclusion is the opposition between true and false. An utterance must be considered true if it is to be accepted. On the face of it, this is not only obvious but entirely sensible. But Foucault points out that truth is not as absolute as is generally thought.
+
+For one thing, truth has a history. An early ancient Greek concept of truth was connected to the utterances of specific men who performed appropriate rituals. This was a version of truth which could also make prophetic pronouncements and hence was able to speak about the future. The division between truth and falsity is constantly shifting. Even scientific truths change according to new discoveries or foundational shifts in certain fields. Truth, therefore, is something which is produced by institutions, such as universities, libraries and laboratories. There is also a connection between what a society values, its politics, its economy and its truths.
+
+These three systems of exclusion – forbidden speech, madness and truth – overlap with one another. Their boundaries are also always on the move. Foucault therefore identifies a system of forces which exert powerful, changing and often invisible prohibitions on speech. These exclusions often operate through institutions, such as the school or the asylum and are sometimes violent. In any case, they underscore why, for Foucault, there are, in any society, some things which cannot be said.
+
+## Internal limitations
+
+The three systems of exclusion discussed above operate from the outside of discourse. Within discourse, however, Foucault also identifies internal procedures which exert control over discourse.
+
+The first sort of text that Foucault considers is one which comments on another, perhaps canonical, text. This sort of writing characterizes much academic writing in the humanities where critics comment on well-known texts. Foucault identifies a paradox in this type of writing: a commentary is obliged to say something new, but can only ever express what has already been “silently articulated” by the primary text. In other words, the commentary can never be truly original since it is bound to “uncover” ideas that were already there in the original text. His point is that this sort of discourse – the commentary – is restricted and controlled by the power of the primary text which exerts a set of limitations on what can be said.
+
+Another element which limits the freedom or “chance-element” of a text is what Foucault calls the author function. He describes the author function as “a principle of grouping of discourses, conceived as the unity and origin of their meanings, as the focus of their coherence.” Foucault is less concerned with the actual person who wrote the text, than with the ways in which the name of the author exerts a control over what a text can say. The key term is the word “unity.” Texts produced by the same author are expected to conform to the same sort of patterns. This is a role taken on consciously or unconsciously by a writer who signs their name to a text. 
+
+The final limiting element, internal to discourse, is the academic discipline to which the text belongs. For a text to be accepted as belonging to a discipline, it must use specific methods, abide by specific definitions and techniques and be based on a set of propositions considered to be true. For example, texts within the discipline of botany will have certain shared definitions regarding entities like plants, cells, DNA etc.; will make use of a restricted range of observation techniques like the use of microscopes or the collection of empirical data; and will subscribe to certain axioms, for example, that plants have evolved over millions of years or that plant traits are directed by genes. 
+
+Foucault points out that the organization of disciplines is opposed both to the principle of commentary and of the author function. If a commentary is supposed to uncover meaning already present in a canonical text, then disciplines are supposed to construct entirely new statements and meanings. And if the author function ties meaning to the identity of a specific writer, then a discipline “constitutes a sort of anonymous system at the disposal of anyone who wants to or is able to use it.”
+
+Despite the ways in which disciplines escape the limitations of commentaries and the author function, Foucault insists that “a discipline is not the sum of all that can be truthfully said about something.” In other words, disciplines also limit what can be said. One reason is that any discipline will comprise both errors and truths. Even a cursory glance at the history of medicine will reveal that discourse has always contained incorrect axioms so we should assume that it still does.
+
+On a deeper level, there are other restrictions on propositions in a given discipline. For example, botanists are no longer permitted to refer to the symbolic values attached to plants as they would have done in medieval times; they cannot refer to basil as a plant which brings good luck, or sage as a plant connected to wisdom. Foucault points out that there are constantly shifting boundaries which police what can be said within a specific discipline. Within a discipline, there are propositions recognised as true or false and beyond a discipline, there is an endless field of ideas which are utterly forbidden.
+
+Foucault gives the fascinating example of Gregor Mendel who correctly identified the actions of genes in plants. Although he published his work in 1865, it was not until the twentieth century that botanists accepted his ideas. As Foucault writes: “Mendel spoke the truth, but he was not ‘within the true’ of the biological discourse of the time.” Mendel’s contemporaries were incapable of seeing that Mendel was right since the basic propositions of botany at the time did not permit Mendel’s ideas. 
+
+## Who gets to speak?
+
+So far, we have looked at forces external to discourse which impose limits on what can be said. These are taboo, madness and truth. We have also examined forces internal to discourse, these are commentary, author and discipline. To these, Foucault adds one final limitation, and this is the question of who actually gets to speak. Who has access to discourse in the first place?
+
+The most obvious restriction concerns qualifications. These can be academic or professional but put simply, before someone is permitted to make use of a discourse, they need certain credentials. To speak about medicine, it is necessary to be a doctor for example. 
+
+Institutions also play a part in this set of restrictions, the publishing system, for example, constrains whose words will end up in print.
+
+Another restriction on individual speakers concerns whether they have allegiance to a specific doctrine. A doctrine can be religious, political or philosophical and adherence to doctrine forms certain groups. Foucault points out that doctrines are different from disciplines in that individuals can be kicked out of them if they fail to adhere properly to the key ideas of a specific doctrine. Martin Luther, for example, was excommunicated from the Catholic church in 1521 for failing to adhere to church doctrine. From this point on, he was excluded from speaking within the discourse of Catholicism.
+
+Finally, and on a wider scale, access to discourse is controlled by educational establishments. While in theory, education provides anyone with the opportunity access to any discourse, in practice, educational establishments never grant this access in a fair or neutral manner. Some speaking subjects, whether determined by sex, social class or race etc. will be prioritized while others will be excluded.
+
+In “The Order of Discourse,” then, Foucault lays out a number of the ways in which discourses are mechanisms for ordering knowledge. While there is no escaping discourse and no denying that it is essential for the expression of new ideas, we should also understand that discourses are mechanisms of control. In a formidable way, they exert power over what can be said and who can say it and although their rules, boundaries and configurations are always shifting, Foucault reminds us that speech is never free.
+

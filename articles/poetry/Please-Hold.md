@@ -1,0 +1,39 @@
+---
+date: 2024-05-20
+description: "Detailed summary and analysis of O’Driscoll's poem"
+tags: [Please Hold, summary, "poetry"]
+title:
+  article: "Please Hold"
+  year: 
+author: "Ciaran O’Driscoll"
+section: poetry
+pageTitle: 'alittlesense.org - Please Hold' 
+abstract: 
+layout: base.njk
+---
+
+## The Joy of Repetition
+
+“Please Hold” performs the maddening, violence-inducing frustration of being trapped in a loop. It is a poem, explicitly about experiencing the same thing over and over and we find ourselves trapped in this cycle from the get go:
+
+>This is the future, my wife says.
+>We are already there, and it’s the same
+>as the present. Your future, here, she says.
+
+“This is the future” means that we are currently in the future. 1\. “We are already there” means that we are already in the future. 2\. “It’s the same as the present” means that the future and the present are the same. 3\. “Your future, here” means that you are currently in the future. 4\. In short, in three short lines we have the same idea expressed four times. And just to hammer home the sense of repetition, the first and third lines end with the same word, while the second line actually ends with the word “same.” This is not to mention that the same lines appear again midway through the poem.
+
+Compounding the claustrophobia of the repetitive opening is the idea which is repeated. “This is the future” represents the flattening out of time where the difference between the future and the present is erased. The essence of the future is unpredictability. We can never know for sure what is going to happen. The future can and will take us by surprise. But if we are already in the future, then there can be no surprises. Nothing will change. We are locked in an endless loop of sameness. Life is on hold.
+
+This sense of failing to progress is evident throughout the poem. We find it in the repetition of words like “wonderful, “robot” and “translator.” We see it in whole lines which are repeated “And my wife says, This is the future.” We see it in the form of the poem which, for the most part is one unbroken stanza. And we see it in the extensive use of the coordinating conjunction “And” which has the effect of adding more and more words but without the sense of progression or differentiation which would be afforded by words like “but,” “if,” “then” or “therefore.” And when we do finally get to the end of the poem, the closing words, “Please hold” quote the title and therefore send us back to the beginning, locking us in the loop.
+
+On the other hand, repetition never achieves sameness. Saying the same thing repeatedly adds force, it can become threatening, absurd or disconcerting and this is what happens with the word “please.” “Please” is an interjection which has a polite or softening effect in the imperative phrase “please hold.” But the word can, in certain contexts, can add force to a command. Think about the difference between “Will you be quiet” and “Will you *please* be quiet.” (Short story writer Raymond Carver takes this even further with his brilliant title “Will you please be quiet, please?”).
+
+Through repetition, the poem reveals the force and violence behind our interactions with corporations. They may appear to be polite, but really they are forcing us to do what they want. With each repetition of the word, it is as though we are repeatedly hit over the head with it. By the end, it is very clear “Please do what you're told.” Please is no longer respectful, it is an instruction, a command.
+
+It may be that this aggression is always present whenever faceless corporations use the word please and that the poem is simply revealing this. Repetition is used to inject irony into other words spoken by the automated phone system. “Wonderful” and “great” are rapidly shown to mean the opposite of wonderful and great once the speaker sarcastically co-opts the terms by describing his “wonderful account” and “great telephone bill.” Neither of these things can sensibly be described as wonderful or great. Here, the poem resists the way in which corporations use language in a manner which is both inappropriate and infantalising.
+
+Ultimately, the word “hold” comes to encapsulate the state induced by the whole poem. The collapsing of the future into the present and the looping nature of the poem means that everything is held. This holding pattern is reinforced with the brutal rhyme scheme of the final stanza which jams the words “hold,” “cold,” “old” and “told” into two lines. By the end of the poem, even the words start to sound alike.
+
+But what has brought us to this state of stasis? Clearly the poem is about more than just being stuck in an automated telephone system. After all, there is a way out of the phone call – the speaker can always hang up, and indeed he is cut off at one point. The bigger target of the poem is the state of late capitalism of which the automated phone system is a symptom. And the effects of capitalism are best presented in the line “he is giving me no options / in the guise of countless alternatives.” This is reminiscent of what Horkheimer and Adorno write in their landmark essay “The Culture Industry” where they note that although it looks like we have a vast array of products to choose from, in the end, they are all the same. Think the toothpaste aisle in a supermarket. 
+
+In this way, the phone call becomes a microcosm of life under capitalism. It looks like we have many options, like we have the free choice to buy what we want, live where we want, work at whatever we want, but in the end none of the options is real. On the only occasion that the speaker attempts to make a choice, by requesting to speak to an operator, he is cut off. He concludes that the only way to meet his needs is by looting. In other words, it is only through violence that the system can be resisted. But the poem is far from a call to revolution. The speaker might acknowledge the need to take action, but he is far too despondent to do anything. By the end of the poem, it is clear that he is resigned to his life on hold.  

@@ -1,0 +1,417 @@
+/* ----------------------------
+   Reset and Base Styles
+---------------------------- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Merriweather", Georgia, serif;
+  line-height: 1.75;
+  background: var(--paper);
+  color: var(--ink);
+  padding: 2rem 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  background: var(--column);
+}
+
+.container {
+  background-color: #fff; /* Light background for content */
+  max-width: 750px;
+  width: 100%;
+  padding: 2rem 2.5rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.05);
+  border-radius: 6px;
+}
+
+/* ----------------------------
+   Headings
+---------------------------- */
+h1, h2, h3, h4 {
+  font-family: "Inter", "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-family: "Playfair Display", serif; /* Interesting font for title */
+  font-weight: 700;
+  font-size: 2.6rem;
+  text-align: left; /* Align title left */
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #333366;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+/* ----------------------------
+   Paragraphs and Lists
+---------------------------- */
+p {
+  margin-bottom: 1.4rem;
+}
+
+ul, ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+/* ----------------------------
+   Links
+---------------------------- */
+a {
+  color: #2a4d8f;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #1a0dab;
+  text-decoration: underline;
+}
+
+/* ----------------------------
+   Blockquotes
+---------------------------- */
+blockquote {
+  border-left: 4px solid #999;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  background-color: #f9f9f9;
+  font-style: italic;
+  color: #555;
+  font-size: 1.05rem;
+}
+
+/* ----------------------------
+   Inline code
+---------------------------- */
+code {
+  background-color: #f3f3f3;
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+  font-family: monospace;
+}
+
+/* ----------------------------
+   Images
+---------------------------- */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+/* ----------------------------
+   Header & Footer
+---------------------------- */
+header {
+  text-align: left; /* Align header left */
+  margin-bottom: 3rem;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  margin: 3rem 0 1rem;
+  color: #777;
+}
+
+/* ----------------------------
+   Homepage TOC Styling
+---------------------------- */
+.category {
+  margin-bottom: 2rem;
+}
+
+.category h2 {
+  margin-bottom: 1rem;
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.article-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.article-list li {
+  margin-bottom: 0.8rem;
+}
+
+.article-list li a {
+  font-weight: 500;
+  font-size: 1rem;
+  color: #2a4d8f;
+}
+
+.article-list li a:hover {
+  color: #1a0dab;
+}
+
+/* ----------------------------
+   Responsive Design
+---------------------------- */
+@media (max-width: 600px) {
+  .container {
+    padding: 1.5rem 1.5rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+}
+
+header nav a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #2a4d8f;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+header nav a:hover {
+  color: #1a0dab;
+  text-decoration: underline;
+}
+
+.abstract {
+  position: relative;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  font-style: italic;
+  color: #243447;
+  background: var(--accent-soft);
+  padding: 1.4rem 1.6rem 1.4rem 2.8rem;
+  margin: 2rem 0 3rem;
+  border-left: 6px solid var(--accent);
+  border-radius: 4px;
+}
+
+
+.author {
+  font-size: 0.95rem;
+  color: #666;
+  margin-top: 0.3rem;
+  margin-bottom: 0.8rem;
+  font-style: italic;
+}
+
+.title {
+  font-family: "Playfair Display", serif;
+  font-weight: 800;
+  font-size: clamp(2.8rem, 5vw, 4.2rem);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  margin-bottom: 1.2rem;
+  color: #111;
+  position: relative;
+}
+
+
+.title .book-title {
+  font-style: italic;
+  margin-left: 0.3rem;
+}
+
+.title .year {
+  font-size: 0.9em;
+  color: #555;
+  margin-left: 0.3rem;
+}
+
+:root {
+  --ink: #1f2933;        /* main text */
+  --paper: #fbfbf9;      /* page background */
+  --accent: #2f5d9f;     /* primary accent (theory) */
+  --accent-soft: #e8eef7;/* abstract background */
+  --accent-warm: #9f4a2f;/* future poetry accent */
+}
+
+.home section {
+  margin-bottom: 3rem;
+}
+
+.home h2 {
+  font-size: 1.4rem;
+  letter-spacing: 0.02em;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.3rem;
+  margin-bottom: 1.2rem;
+}
+
+.article-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.article-list li {
+  margin-bottom: 0.7rem;
+}
+
+.article-list a {
+  font-size: 1.05rem;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.article-list a:hover {
+  color: var(--accent);
+}
+
+.article-list .author {
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+}
+
+/* ---- Homepage layout ---- */
+.homepage-header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.homepage-header h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  font-weight: 900;
+  letter-spacing: 1px;
+  margin-bottom: 0.5rem;
+  color: var(--ink);
+}
+
+.homepage-header p {
+  font-family: 'Merriweather', serif;
+  font-size: 1.25rem;
+  color: #555;
+}
+
+/* ---- Section styling ---- */
+.section {
+  margin-bottom: 5rem;
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+.section.critical-theory {
+  background: #f1f5fb; /* subtle blue tint */
+}
+
+.section.poetry {
+  background: #fef5f2; /* subtle warm tint */
+}
+
+.section h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.3rem;
+  color: var(--ink);
+}
+
+/* ---- Article cards ---- */
+.article-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.article-item {
+  background: white;
+  border-radius: 10px;
+  padding: 1.2rem 1.5rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  transition: transform 0.2s, box-shadow 0.3s;
+}
+
+.article-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+/* ---- Article title ---- */
+.article-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--ink);
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.article-title:hover {
+  color: var(--accent);
+}
+
+/* ---- Author ---- */
+.author {
+  display: block;
+  font-family: 'Merriweather', serif;
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.4rem;
+}
+
+/* ---- Section-specific title colors ---- */
+.section.critical-theory .article-title {
+  color: #1a3e6f; /* deep blue */
+}
+
+.section.critical-theory .article-title:hover {
+  color: #3f6fbf;
+}
+
+.section.poetry .article-title {
+  color: #8b3e2f; /* warm rust */
+}
+
+.section.poetry .article-title:hover {
+  color: #bf6f5c;
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 768px) {
+  .homepage-header h1 {
+    font-size: 2.2rem;
+  }
+
+  .section h2 {
+    font-size: 1.6rem;
+  }
+
+  .article-title {
+    font-size: 1.25rem;
+  }
+}
+
+
+

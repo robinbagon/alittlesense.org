@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,800;1,600&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ pageTitle }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <nav>
+      <a href="/">← Home</a>
+      </nav>
+      <h1 class="title">
+        {% if title.article %}
+        “{{ title.article }}”
+        {% endif %}
+
+        {% if title.book %}
+        <span class="book-title">{{ title.book }}</span>
+        {% endif %}
+
+        {% if title.year %}
+        <span class="year">({{ title.year }})</span>
+        {% endif %}
+      </h1>
+
+      {% if author %}
+      <p class="author">{{ author }}</p>
+      {% endif %}
+
+      {% if abstract %}
+      <p class="abstract">{{ abstract }}</p>
+      {% endif %}
+
+    </header>
+
+    <main>
+      {{ content | safe }}
+      <p><a href="/">← Back to Home</a></p>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 alittlesense.org</p>
+    </footer>
+  </div>
+</body>
+</html>

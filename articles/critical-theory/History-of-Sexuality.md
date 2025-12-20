@@ -1,0 +1,70 @@
+---
+date: 2024-05-20
+description: "Detailed summary and analysis of Sontag's essay"
+tags: [Foucault, History Sexuality, summary, "critical-theory"]
+title:
+  article: "The History of Sexuality"
+  year: 1976
+author: "Michel Foucault"
+section: critical-theory
+pageTitle: 'alittlesense.org - The History of Sexuality' 
+abstract: "Foucault argues that rather than repressing sexuality, the obsessive examination of all aspects of human desire has solidified and reinforced a vast array of unorthodox desires and practices."
+layout: base.njk
+---
+
+In *Civilization and its Discontents*, Freud famously claims that civilization can only thrive when the sexual desires of humans are repressed. “The Repressive Hypothesis” of Foucault’s title refers to this hypothesis which suggests that the sexual desires of humans are incompatible with civilization. If humans want to be civilized, they must curb their sexuality and largely restrict sexual activity within the boundaries of the family. The topic of sex becomes taboo; it must remain invisible and unacknowledged. 
+
+This understanding of civilization accords closely with the commonly held view of Victorian Britain – a society generally seen as conservative and prudish where sex is restricted to the private realm and regarded as shameful and disgusting.
+
+Foucault’s thesis is that the repressive hypothesis is wrong. In contrast to the claim that people were afraid to speak about sex, Foucault detects a “discursive explosion” regarding sex from the eighteenth century onwards. That is, he claims that for at least the past three hundred years, there has been a massive proliferation of discourses which are concerned with sex. Foucault claims that there has been a pervasive “institutional incitement to speak about \[sex\]”; rather than being forbidden from speaking about it, people are compelled to do so.
+
+## Confession
+
+The first discourse considered by Foucault is the Catholic confession. He notes that the scope of the confession increased dramatically to include all elements of not only the sexual act but also sexual desire. Confessors were even required to give an account of their sexual dreams. In this way, desire was transformed into discourse.
+
+Next, Foucault traces “the great process of transforming sex into discourse” to literary works which seek to give an exhaustive account of sex and desire. In particular, he mentions the works of the Marquis de Sade (1740-1814) and an English text, *My Secret Life* (1888), which, over 4000 pages, gives a highly detailed account of the sexual activities and desires of its author. Foucault draws a direct line between the Catholic confession and these books which both follow the “injunction to talk about sex.”
+
+Foucault notes that this new discourse did not just document information about sex and desire. Rather, it actively transformed the nature of sexual desire: “this carefully analytical discourse was meant to yield multiple effects of displacement, intensification, reorientation, and modification of desire itself.”
+
+## Rationality
+
+In parallel to the literary accounts, political, economic and technical discourses of sex also emerged. It might seem that a rational discourse would not engage with sexual matters, which are “objects situated between disgust and ridicule,” but Foucault notes that sex can be put to use when it is “regulated for the greater good of all, made to function according to an optimum.”
+
+The state needed to take charge of sex primarily for economic reasons. In the eighteenth century, the concept of “population” emerged: “population as wealth, population as manpower or labor capacity, population balanced between its own growth and the resources it commanded.” Industrialized capitalist economies could only expand with an expanding workforce. So the change in economic conditions led to a change in how governments saw the public. No longer understood as “subjects” or “the people,” “the population” is a scientific object of study, scrutinized through the discourse of demography. Central to demography is the question of sex, connected as it is to birth rates, marriage age and legitimate and illegitimate births. In other words, with the birth of industrialized capitalism, sexual behavior is economic behavior and therefore becomes a direct concern of the state.
+
+Rationality also took the sexuality of children seriously. Foucault finds evidence that the sexuality of children was a preoccupation of the Vicotrians and that rational methods were used to regulate the sexual urges of children. In particular, Foucault comments on the architecture of educational institutions. He notes that “the space for classes, the shape of the tables, the planning of the recreation lessons, the distribution  
+of the dormitories (with or without partitions, with or without curtains), the rules for monitoring bedtime and sleep periods” were all established in relation to the sexuality of children. Educators, doctors and reformers published an extensive literature on “the sex of the schoolboy.”
+
+Overall, a variety of professions, including medicine, psychiatry and the criminal justice system produced discourses on sex. Foucault details a case of child sex abuse from 1867 in France in which all of the above professions contributed to dealing with the offender. The man was acquitted of any crime but was made instead into “a pure object of medicine and knowledge—an object to be shut away till the end of his life in the hospital at Maréville, but also one to be made known to the world of learning through a detailed analysis.” Foucault is interested in the ways in which multiple discourses on sex were used to analyze this individual. He notes how the discourses both produced knowledge about this individual and also resulted in his incarceration. It is, however, striking that Foucault sees no harm in the man’s actions – something which many contemporary readers will find hard to agree with.
+
+The combination of these discourses on sex “intensif\[ied\] people's awareness of it as a constant danger, and this in turn created a further incentive to talk about it.” The ultimate effect of these discourses is that “it may well be that we talk about sex more than anything else.” Foucault ends the chapter by pointing to a “disquieting enigma” at the heart of the topic. On the one hand, as he has demonstrated, we are compelled to talk about sex, almost exhaustively. But on the other hand, sex is supposed to be kept secret and hidden. His answer to this contradiction is that the two sides of the question actually go hand in hand. The need to keep sex secret is the mechanism for the requirement to speak about sex. He seems to be arguing that the justification for talking endlessly about sex is that we are not allowed to talk about sex.
+
+## Perversion
+
+The second section of the chapter analyzes the effects of the proliferation of discourses related to sex. Foucault begins by bringing up a Marxist angle, asking if the purpose of all this attention on sex did not simply have the purpose of engendering “a sexuality that is economically useful.” In other words, he asks if capitalism is not the root cause of the phenomenon whereby sex is made to produce a viable workforce while not overtaxing the economy with too many mouths to feed.
+
+In countering this argument, Foucault brings up two points. One is that from the start of the eighteenth century, discourses on sex tended to ignore the sexual practices of married couples. So in this sense, the people who were tasked with maintaining or expanding the population were no longer the focus. The second point is that discourse did not have the effect of reducing non-heterosexual, non-marital sexual relations, rather, the past three hundred years have witnessed a proliferation of sexual heterogeneities. 
+
+Foucault demonstrates that discourse on sex turned away from an examination of the married couple: “the legitimate couple, with its regular sexuality , had a right to more discretion.” In turn, attention is focused on outlying sexual practices: 
+
+>The sexuality of children, mad men and women, and criminals; the sensuality of those who did not like the opposite sex; reveries, obsession, petty manias, or great transports of rage. It was time for all these figures, scarcely noticed in the past, to step forward and speak, to make the difficult confession of what they were.
+
+While the laws of marriage still remain a system for governing sex, Foucault notes the proliferation of interest in desires which were condemned, but understood differently from more traditional forms of sexual violation such as adultery and rape. A range of sexual practices were described which covered areas previously unknown or ignored. Here Foucault mentions violations such as: “to marry a close relative or practice sodomy, to seduce a nun or engage in sadism, to deceive one's wife or violate cadavers.” He notes that the status of these acts is unclear in that the perpetrators were generally locked up when discovered, but not always in prisons. People engaging in these “unnatural acts” “were sick perhaps, but scandalous, dangerous victims, prey to a strange evil that also bore the name of vice and sometimes crime.”
+
+But what interests Foucault most of all about the proliferation of discourses relating to “sexual perversion” is the question of repression. While it might be expected that so much professional attention on peripheral sexualities would lead to a reduction in these practices, Foucault shows how, in four distinct ways, there was no “simple prohibition” of “perversion.” In fact, he argues that a complex relation of pleasure and power is in operation.
+
+Firstly, he examines discourses relating to childhood masturbation. He points out that there is something suspect in the enormous effort that was put into the elimination of “the child’s ‘vice,’” since everyone must have known that the task could not possibly have succeeded. Instead, Foucault suggests that childhood masturbation serves as a prop or support to discourses attempting to prevent it. This support justifies the discourses and therefore makes them more powerful, allowing them more scope to investigate areas of childhood sexuality as they supposedly search for a cure. In other words, so long as childhood masturbation persisted (which, of course, it would), there was a justification for the increasingly expanded investigations into peripheral sexualities.
+
+Secondly, Foucault notes how these discourses created whole new categories of individuals. In particular, he claims that “the nineteenth-century homosexual became a personage.” This is one of the most interesting and significant claims of the book. By this, Foucault means that the homosexual, as a category of human, was invented in the nineteenth century. He suggest that for men with same-sex attraction, their sexuality became the defining feature of their entire being:
+
+>Nothing that went into his total composition was unaffected by his sexuality. It was everywhere present in him: at the root of all his actions because it was their insidious and indefinitely active principle; written immodestly on his face and body because it was a secret that always gave itself away. It was consubstantial with him, less as a habitual sin than as a singular nature.
+
+In other words, every aspect of the individual was understood in relation to his sexuality. Homosexuality could be detected in all actions and was also observable in the physical body. There was no part of a homosexual which was not inscribed with his sexuality. 
+
+Foucault notes that the effect of the invention of this new personage is to solidify homosexuality. Rather than repress it and restrict it, by creating an individual who is identified solely by his sexuality, this sexuality is reinforced and made real.	 He notes that this is the case not just for homosexuality, but for a “thousand aberrant sexualities.”
+
+Foucault’s third point is that these discourses establish a mutually reinforcing relation between power and pleasure. This relation is particularly apparent in the medical profession where doctors and therapists are tasked with examining peripheral sexualities. For the examining doctor, there is a pleasure derived from the exercise of power over the patient. This pleasure is intensified as the patient confesses more details of their sexual desires or practices. On the other side, for the patient, there is a kind of pleasure derived from the attempt to evade the power of the doctor. Alternatively, the patient can enjoy showing off to or scandalizing the doctor. The overall effect of this connection between pleasure and power is that rather than repressing peripheral sexualities, they thrive amid all the attention.
+
+Finally, the explosion of discourse has created what Foucault calls a network of pleasures which operate beyond the bounds of the traditional married couple. The physical division of the household attests to the presence of multiple sexualities, not limited just to that of the parents. The same is true for educational institutions. In this sense, sexuality is to be found everywhere and its presence can be read in the various boundaries which attempt to regulate it.
+
+The overall effect of the explosion of discourse on sex has been the proliferation of peripheral sexualities. As Foucault writes, unorthodox sexual practices were “extracted from people’s bodies and from their pleasures; or rather, they were solidified in them, they were drawn out, revealed, isolated, intensified, incorporated, by multifarious power devices.” The relentless and obsessive investigation into human sexuality has first of all solidified and intensified its object of study. Specific sexual desires and practices have been highlighted and made all the more real. The very act of investigating them has energized these practices and made them all the more pleasurable. Finally, these discourses have elevated sexuality to one of the primary characteristics of the individual.  
