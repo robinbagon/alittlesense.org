@@ -4,7 +4,7 @@ layout: base.njk
 ---
 
 <header class="homepage-header">
-  
+
   <h1>{{ title }}</h1>
   <p>Welcome to <em>A Little Sense</em>, a collection of essays on critical theory and poetry analysis.</p>
 </header>
@@ -31,7 +31,7 @@ layout: base.njk
         {% endif %}
 
         <li class="article-item">
-          <a class="article-title" href="{{ post.url }}">{{ displayTitle | safe }}</a>
+          <a class="article-title" href="{{ post.url | url }}">{{ displayTitle | safe }}</a>
 
           {% if post.data.author %}
             <span class="author">by {{ post.data.author }}</span>
@@ -62,7 +62,7 @@ layout: base.njk
         {% endif %}
 
         <li class="article-item">
-          <a class="article-title" href="{{ post.url }}">{{ displayTitle | safe }}</a>
+          <a class="article-title" href="{{ post.url | url }}">{{ displayTitle | safe }}</a>
 
           {% if post.data.author %}
             <span class="author">by {{ post.data.author }}</span>
