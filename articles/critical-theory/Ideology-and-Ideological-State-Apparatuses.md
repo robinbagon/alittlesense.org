@@ -37,14 +37,14 @@ Althusser’s essay begins by dividing between Repressive State Apparatuses (RSA
 
 ISAs, on the other hand, do not operate primarily through physical violence. Instead, they exert influence by ideology. Althusser presents a useful list of ISAs:
 
-– the religious ISA (the system of the different Churches),  
-– the educational ISA (the system of the different public and private “Schools”),  
-– the family ISA,  
-– the legal ISA,  
-– the political ISA (the political system, including the different Parties),  
-– the trade-union ISA,  
-– the communications ISA (press, radio and television, etc.),  
-– the cultural ISA (Literature, the Arts, sports, etc.).
+>* the religious ISA (the system of the different Churches),  
+>* the educational ISA (the system of the different public and private “Schools”),  
+>* the family ISA,  
+>* the legal ISA,  
+>* the political ISA (the political system, including the different Parties),  
+>* the trade-union ISA,  
+>* the communications ISA (press, radio and television, etc.),  
+>* the cultural ISA (Literature, the Arts, sports, etc.).
 
 His claim is that, despite the differences between these ISAs, they share an ideological unity – they all operate beneath the ruling ideology of the state which is the ideology of the ruling class. To put this another way, the ideology of all ISAs is capitalist ideology. He also claims that the ISAs are crucial to the functioning of state power in that “no class can hold state power over a long period without at the same time exercising its hegemony over and in the State Ideological Apparatuses.” This is to claim that while states obviously need repressive apparatuses in order to control citizens (it is difficult to imagine a state without a police force for example), they also need ideological apparatuses which are at least equally crucial. 
 

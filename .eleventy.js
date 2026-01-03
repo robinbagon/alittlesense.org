@@ -22,7 +22,6 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
-    pathPrefix: "/alittlesense.org/",   // 👈 THIS IS THE KEY LINE
     dir: {
       input: ".",
       output: "docs"
