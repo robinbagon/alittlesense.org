@@ -426,5 +426,16 @@ header nav a:hover {
   transform: scale(1.05);
 }
 
+/* Logo above title */
+.logo-container {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.site-logo {
+  max-width: 150px; /* adjust size */
+  height: auto;
+}
+
 
 

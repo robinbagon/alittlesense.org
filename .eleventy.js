@@ -2,7 +2,7 @@ const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
-
+  eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPlugin(pluginSitemap);
 
 
