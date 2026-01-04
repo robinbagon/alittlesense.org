@@ -1,5 +1,11 @@
+const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
+
+  eleventyConfig.addPlugin(pluginSitemap);
+
+
 
   // Helper for sorting titles
   function getArticleTitle(item) {
