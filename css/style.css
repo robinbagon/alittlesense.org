@@ -413,5 +413,18 @@ header nav a:hover {
   }
 }
 
+.bmc-button {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.bmc-button img {
+  transition: transform 0.2s;
+}
+
+.bmc-button img:hover {
+  transform: scale(1.05);
+}
+
 
 
