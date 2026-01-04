@@ -1,0 +1,8 @@
+# robots.txt for A Little Sense
+# Allow all well-behaved bots to crawl the site
+
+User-agent: *
+Disallow:
+
+# Reference to sitemap
+Sitemap: https://alittlesense.org/sitemap.xml
