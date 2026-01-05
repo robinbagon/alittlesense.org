@@ -1,16 +1,32 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Armitage's poem"
-tags: [Chainsaw Versus the Pampas Grass, summary, "poetry"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "Chainsaw Versus the Pampas Grass – Simon Armitage | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Simon Armitage’s poem 'Chainsaw Versus the Pampas Grass', exploring themes of gender, symbolism, and the roles of narrator and objects."
+canonical: "https://alittlesense.org/articles/poetry/Chainsaw-Versus-the-Pampas-Grass/"
+tags:
+  - Chainsaw Versus the Pampas Grass
+  - Simon Armitage
+  - summary
+  - poetry
+  - analysis
+  - gender
+  - symbolism
+  - narrator
 title:
   article: "Chainsaw Versus the Pampas Grass"
-  year:
+  year: 2000
+  book: null
 author: "Simon Armitage"
 section: poetry
-pageTitle: 'alittlesense.org - Chainsaw Versus the Pampas Grass' 
-abstract: 
+abstract: "An analysis of Armitage’s poem exploring the exaggerated masculine and feminine symbols of the chainsaw and pampas grass, and the ways in which the narrator is shaped by these forces."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 
 The decidedly unpoetic “versus” in the title tells us that this poem deals with opposing forces. Underpinning the division between the chainsaw and the pampas grass is a series of dichotomies including active and passive, mechanical and natural, and the sun and the moon. It is the final pair in this series which, as we will see, leads to the most interesting and productive reading of the poem.

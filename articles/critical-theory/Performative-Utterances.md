@@ -1,17 +1,30 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Austin's essay"
-tags: [ Performative Utterances, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "Performative Utterances (1956) – J.L. Austin | alittlesense.org"
+metaDescription: "A detailed summary and analysis of J.L. Austin’s essay 'Performative Utterances', exploring how language can function to do things rather than merely describe reality, laying the foundation for speech act theory and later developments in critical theory."
+canonical: "https://alittlesense.org/articles/critical-theory/Performative-Utterances/"
+tags:
+  - Austin
+  - Performative Utterances
+  - speech-act-theory
+  - performativity
+  - language
+  - critical-theory
 title:
   article: "Performative Utterances"
-  book: 
+  book:
   year: 1956
 author: "J.L. Austin"
 section: critical-theory
-pageTitle: 'alittlesense.org - Performative Utterances' 
-abstract: "J.L. Austin’s theory of performativity, also known as speech act theory, explores utterances which do what they say; where just saying something constitutes an action."
+abstract: "Austin introduces the concept of performative utterances—statements that do not merely describe reality but bring about actions—and distinguishes them from descriptive statements, highlighting the importance of social conventions, context, and felicity in understanding language."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 A performative is a utterance which performs an action. In distinction to a statement, which describes something, a performative actually does something. The best way to understand this is through examples, and fortunately, Austin provides many. 
 
@@ -29,10 +42,10 @@ But Austin is keen to focus on language as well and examines the grammatical str
 
 Consider the following sentences:
 
-* You are hereby warned that the bull is dangerous.  
-* This bull is dangerous.  
-* Dangerous bull.  
-* Bull.
+>* You are hereby warned that the bull is dangerous.  
+>* This bull is dangerous.  
+>* Dangerous bull.  
+>* Bull.
 
 The first example is clearly a performative utterance, but given the right context, all of the other versions seem to have a very similar meaning. Surely all of them perform the act of warning. If this is the case, then they are all performatives. Yet the second one looks very much like a statement – the sort of sentence that we would judge as being true or false – and the final two do not even have verbs. So although it is useful to identify the grammatical structures commonly associated with performatives, we need to be aware that performatives come in a variety of grammatical forms.
 

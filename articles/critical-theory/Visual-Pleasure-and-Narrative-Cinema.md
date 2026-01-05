@@ -1,17 +1,34 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Mulvey's essay"
-tags: [Visual Pleasure and Narrative Cinema, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "Visual Pleasure and Narrative Cinema (1975) – Laura Mulvey | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Laura Mulvey's essay 'Visual Pleasure and Narrative Cinema', examining how classical Hollywood cinema reinforces the male gaze and produces pleasure by objectifying women."
+canonical: "https://alittlesense.org/articles/critical-theory/Visual-Pleasure-and-Narrative-Cinema/"
+tags:
+  - Mulvey
+  - Visual Pleasure and Narrative Cinema
+  - critical-theory
+  - male-gaze
+  - psychoanalysis
+  - scopophilia
+  - mirror-stage
+  - Hollywood
+  - cinema
+  - feminism
 title:
   article: "Visual Pleasure and Narrative Cinema"
-  book: 
+  book: ""
   year: 1975
 author: "Laura Mulvey"
 section: critical-theory
-pageTitle: 'alittlesense.org - Visual Pleasure and Narrative Cinema' 
-abstract: "Mulvey’s article combines feminist and psychoanalytic theory to analyze how classic Hollywood movies produce pleasure by reinforcing the male ego and turning women into objects."
+abstract: "Mulvey combines feminist and psychoanalytic theory to explain how classical Hollywood films construct pleasure for male viewers by turning women into passive objects. She explores scopophilia, the mirror stage, fetishism, and narrative structures to demonstrate how cinema reinforces the male gaze and male power."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 The concept of “the male gaze” describes the visual presentation of women for the pleasure of the male heterosexual viewer. Under the male gaze, women are positioned as passive objects, subject to the controlling view of a man. Examples can be found in paintings, statues and movies. Mulvey takes the movies of Golden Age Hollywood (1927-1960) and examines how the male gaze makes films pleasurable for male viewers. She enriches the theory of looking by making use of psychoanalytic theory, specifically Freud’s ideas around scopophilia and castration, and Lacan’s theory of the mirror stage.
 

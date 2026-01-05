@@ -1,14 +1,31 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Lyotard's essay"
-tags: [Lyotard, What is Postmodernism, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "What is Postmodernism? (1979) – Jean-François Lyotard | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Jean-François Lyotard’s essay 'What is Postmodernism?' from The Postmodern Condition, examining postmodern art, the unrepresentable, and the decline of grand narratives."
+canonical: "https://alittlesense.org/articles/critical-theory/What-is-Postmodernism/"
+tags:
+  - Lyotard
+  - What is Postmodernism
+  - critical-theory
+  - postmodernism
+  - grand-narratives
+  - small-narratives
+  - avant-garde
+  - aesthetics
+  - sublime
+  - art
 title:
   article: "What is Postmodernism?"
   book: "The Postmodern Condition"
   year: 1979
 author: "Jean-François Lyotard"
 section: critical-theory
-abstract: "The final chapter of Lyotard’s *The Postmodern Condition* presents a short and landmark account of art and representation under postmodernism. He concludes that postmodern art is concerned with imparting a sense of the unrepresentable and he draws a clear distinction between modern and postmodern aesthetics."
+abstract: "In the final chapter of The Postmodern Condition, Lyotard argues that postmodern art is concerned with presenting the unrepresentable. He distinguishes postmodern aesthetics from modernism, criticizes realism and the desire for unity, and emphasizes the political dimension of postmodern artistic experimentation."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
 

@@ -1,17 +1,33 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of 's essay"
-tags: [ The Fact of Blackness, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "The Fact of Blackness (1952) – Franz Fanon | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Franz Fanon's 'The Fact of Blackness' from *Black Skin, White Masks*, exploring the psychological effects of colonialism, the construction of black subjectivity, and the dynamics of race under French colonial rule."
+canonical: "https://alittlesense.org/articles/critical-theory/The-Fact-of-Blackness/"
+tags:
+  - Fanon
+  - The Fact of Blackness
+  - Black Skin White Masks
+  - critical-theory
+  - colonialism
+  - subjectivity
+  - race
+  - négritude
+  - psychoanalysis
 title:
   article: "The Fact of Blackness"
   book: "Black Skin, White Masks"
   year: 1952
 author: "Franz Fanon"
 section: critical-theory
-pageTitle: 'alittlesense.org - The Fact of Blackness' 
-abstract: ""
+abstract: "Fanon provides a psychoanalytic, existential, and socio-political account of the black subject under colonial rule. The text examines how racism shapes black identity, the psychological burden of being defined by white norms, and the limits of cultural movements like *Négritude* in escaping colonial discourse."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 Fanon’s text gives a personal and theoretical account of what it is like to be an individual under colonial rule. Specifically, he theorizes his experiences as a black man under white French rule on the Caribbean island of Martinique. In “The Fact of Blackness,” Fanon draws on Marxist, Hegelian, Existentialist and psychoanalytic ideas in order to account for the specific forces which operate in the colonial space. The most pressing question of the chapter concerns how the black subject thinks about himself. To answer this, Fanon draws extensively on psychoanalytic theory. His important innovation in this respect is that instead of conducting his analysis on the individual level, he considers how wider social structures affect the psyches of black individuals.
 

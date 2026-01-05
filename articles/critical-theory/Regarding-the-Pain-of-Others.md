@@ -1,17 +1,32 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Sontag's essay"
-tags: [ Regarding the Pain of Others, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+
+metaTitle: "Regarding the Pain of Others (2003) – Susan Sontag | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Susan Sontag’s 'Regarding the Pain of Others', exploring the ethics, aesthetics, and understanding of war photography, and how images of suffering shape memory, perception, and moral engagement."
+canonical: "https://alittlesense.org/articles/critical-theory/Regarding-the-Pain-of-Others/"
+tags:
+  - Sontag
+  - Regarding the Pain of Others
+  - photography
+  - war
+  - ethics
+  - memory
+  - critical-theory
 title:
-  article:
+  article: "Regarding the Pain of Others"
   book: "Regarding the Pain of Others"
   year: 2003
 author: "Susan Sontag"
 section: critical-theory
-pageTitle: 'alittlesense.org - Regarding the Pain of Others' 
-abstract: "Regarding the Pain of Others, which is a companion to Sontag’s 1977 book On Photography, is an extended meditation on war photography. It questions whether images of suffering and destruction necessarily engender opposition to war and considers how images of war relate to authenticity, beauty, taste, understanding, memory and forgetting. "
+abstract: "In 'Regarding the Pain of Others', Sontag meditates on war photography, questioning whether images of suffering necessarily foster opposition to war, and examining their relation to authenticity, beauty, taste, understanding, memory, and forgetting."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 In what follows, we will present 10 of its most striking ideas.
 

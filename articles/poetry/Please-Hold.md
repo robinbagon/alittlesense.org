@@ -1,16 +1,33 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of O’Driscoll's poem"
-tags: [Please Hold, summary, "poetry"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "Please Hold – Ciaran O’Driscoll | alittlesense.org"
+metaDescription: "A detailed analysis of Ciaran O’Driscoll’s poem 'Please Hold', exploring repetition, corporate language, and life under late capitalism."
+canonical: "https://alittlesense.org/articles/poetry/Please-Hold/"
+tags:
+  - Please Hold
+  - Ciaran O’Driscoll
+  - poetry
+  - summary
+  - analysis
+  - repetition
+  - language
+  - capitalism
+  - satire
 title:
   article: "Please Hold"
-  year: 
+  year: 1998
+  book: null
 author: "Ciaran O’Driscoll"
 section: poetry
-pageTitle: 'alittlesense.org - Please Hold' 
-abstract: 
+abstract: "An analysis of O’Driscoll’s 'Please Hold', highlighting the poem’s use of repetition, irony, and corporate language to critique life under late capitalism."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 ## The Joy of Repetition
 

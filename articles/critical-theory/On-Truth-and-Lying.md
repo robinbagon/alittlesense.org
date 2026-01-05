@@ -1,17 +1,30 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Nietzsche's essay"
-tags: [ Truth and Lying, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "On Truth and Lying in a Non-Moral Sense (1986) – Friedrich Nietzsche | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Friedrich Nietzsche’s essay 'On Truth and Lying in a Non-Moral Sense,' exploring language, truth, and human cognition."
+canonical: "https://alittlesense.org/articles/critical-theory/On-Truth-and-Lying/"
+tags:
+  - Nietzsche
+  - Truth and Lying
+  - language
+  - philosophy
+  - critical-theory
+  - cognition
 title:
   article: "On Truth and Lying in a Non-Moral Sense"
   book: 
   year: 1986
 author: "Friedrich Nietzsche"
 section: critical-theory
-pageTitle: 'alittlesense.org - On Truth and Lying' 
-abstract:
+abstract: "Nietzsche argues that language and thought are fundamentally deceptive. Concepts are human-made, truth is metaphorical, and genuine understanding requires intuition rather than reason."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 Nietzsche begins this short text with a blunt attack on cognition. He argues that cognition (or thought) places far too much value on thought itself, leading to a situation where humans massively overestimate their own importance. On a universal scale, Nietzsche reminds us, humans are of no importance whatsoever. The primary characteristic of cognition for Nietzsche and its most problematic feature is its ability to deceive – to dissimulate. In fact, Nietzsche argues that dissimulation is built into the very structure of cognition and language.
 

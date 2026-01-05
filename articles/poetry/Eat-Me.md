@@ -1,16 +1,33 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Agbabe's poem"
-tags: [Eat Me, summary, "poetry"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "Eat Me – Patience Agbabe | alittlesense.org"
+metaDescription: "A detailed analysis of Patience Agbabe’s poem 'Eat Me', exploring themes of excess, power, gender, and shocking narrative closure."
+canonical: "https://alittlesense.org/articles/poetry/Eat-Me/"
+tags:
+  - Eat Me
+  - Patience Agbabe
+  - poetry
+  - summary
+  - analysis
+  - theme
+  - excess
+  - narrative
+  - gender
 title:
   article: "Eat Me"
-  year: 
+  year: 2009
+  book: null
 author: "Patience Agbabe"
 section: poetry
-pageTitle: 'alittlesense.org - Eat Me' 
-abstract: 
+abstract: "An analysis of Agbabe’s 'Eat Me', examining the poem’s exploration of excess, gendered power dynamics, and the shocking climax that subverts taboos."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 
 Poetry is excessive. That is, the meaning of poetry always overspills the words on the page. Poems are open to new and innovative readings no matter how many times they have been read before. Poems exploit and amplify a fundamental feature of language; that words refer to other words in an endless chain of semantic connection.

@@ -1,15 +1,31 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Benjamin's essay"
-tags: [ The Work of Art in the Age of Its Technological Reproducibility, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "The Work of Art in the Age of Its Technological Reproducibility (1935–1939) – Walter Benjamin | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Walter Benjamin's essay 'The Work of Art in the Age of Its Technological Reproducibility', exploring how film and photography change the relationship between art and its audience, and how reproducibility holds revolutionary potential."
+canonical: "https://alittlesense.org/articles/critical-theory/The-Work-of-Art-in-the-Age-of-Its-Technological-Reproducibility/"
+tags:
+  - Benjamin
+  - The Work of Art
+  - critical-theory
+  - aura
+  - film
+  - photography
+  - Marxism
+  - fascism
+  - perception
+  - mass-production
 title:
   article: "The Work of Art in the Age of Its Technological Reproducibility"
-  book: 
+  book: ""
   year: 1935–1939
 author: "Walter Benjamin"
 section: critical-theory
-pageTitle: 'alittlesense.org - The Work of Art in the Age of Its Technological Reproducibility' 
-abstract: "Benjamin argues that film and photography have the potential to fundamentally change the relationship between art and its audience. In this sense, he locates in reproducible artworks a revolutionary potential which is absent in traditional works of art."
+abstract: "Benjamin argues that film and photography transform art by diminishing its 'aura', empowering the audience, and opening possibilities for revolutionary perception. He also warns that the same technologies could serve fascist ends, highlighting the political stakes of art in the age of mechanical reproduction."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
 

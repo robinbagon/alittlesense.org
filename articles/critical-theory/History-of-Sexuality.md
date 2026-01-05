@@ -1,16 +1,28 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Sontag's essay"
-tags: [Foucault, History Sexuality, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "The History of Sexuality (1976) – Michel Foucault | alittlesense.org"
+metaDescription: "A clear summary and analysis of Michel Foucault’s The History of Sexuality, examining the repressive hypothesis, discourse, power, and the production of sexual identities."
+canonical: "https://alittlesense.org/articles/critical-theory/History-of-Sexuality/"
+tags:
+  - Foucault
+  - The History of Sexuality
+  - power
+  - sexuality
+  - critical-theory
 title:
   article: "The History of Sexuality"
   year: 1976
 author: "Michel Foucault"
 section: critical-theory
-pageTitle: 'alittlesense.org - The History of Sexuality' 
-abstract: "Foucault argues that rather than repressing sexuality, the obsessive examination of all aspects of human desire has solidified and reinforced a vast array of unorthodox desires and practices."
+abstract: "Foucault challenges the idea that modern societies repress sexuality, arguing instead that an expanding network of discourses has actively produced, classified, and intensified sexual desires and identities."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 In *Civilization and its Discontents*, Freud famously claims that civilization can only thrive when the sexual desires of humans are repressed. “The Repressive Hypothesis” of Foucault’s title refers to this hypothesis which suggests that the sexual desires of humans are incompatible with civilization. If humans want to be civilized, they must curb their sexuality and largely restrict sexual activity within the boundaries of the family. The topic of sex becomes taboo; it must remain invisible and unacknowledged. 
 

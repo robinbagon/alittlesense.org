@@ -1,17 +1,34 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Foucault's essay"
-tags: [ The Order of Discourse, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "The Order of Discourse (1971) – Michel Foucault | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Michel Foucault's essay 'The Order of Discourse', exploring how discourses shape knowledge, limit what can be said, and determine who can speak within social, institutional, and academic frameworks."
+canonical: "https://alittlesense.org/articles/critical-theory/The-Order-of-Discourse/"
+tags:
+  - Foucault
+  - The Order of Discourse
+  - critical-theory
+  - discourse
+  - power
+  - knowledge
+  - institutions
+  - author-function
+  - commentary
+  - discipline
 title:
   article: "The Order of Discourse"
-  book: 
+  book: ""
   year: 1971
 author: "Michel Foucault"
 section: critical-theory
-pageTitle: 'alittlesense.org - The Order of Discourse' 
-abstract: ""
+abstract: "Foucault examines how discourse is produced, controlled, and regulated. He identifies both external and internal limitations on what can be said, explores how institutions and disciplines enforce these boundaries, and highlights how power shapes who has the authority to speak."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 In her book on discourse, Sara Mills observes that the word “has perhaps the widest range of possible significations of any term in literary and cultural theory.” Not a promising start then. And it is no wonder that students find it difficult to articulate exactly what discourse is.
 

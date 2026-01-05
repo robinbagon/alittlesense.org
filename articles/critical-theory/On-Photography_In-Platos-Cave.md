@@ -1,23 +1,34 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Sontag's essay"
-tags: [Sontag, On Photography, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+
+metaTitle: "On Photography (1973) – Susan Sontag | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Susan Sontag’s essay 'In Plato’s Cave' from On Photography, exploring photography, reality, ethics, and postmodernism."
+canonical: "https://alittlesense.org/articles/critical-theory/On-Photography_In-Platos-Cave/"
+tags:
+  - Sontag
+  - On Photography
+  - photography
+  - critical-theory
+  - ethics
+  - postmodernism
 title:
   article: "In Plato’s Cave"
   book: "On Photography"
   year: 1973
 author: "Susan Sontag"
 section: critical-theory
-pageTitle: 'alittlesense.org - On Photography' 
-abstract: "Sontag’s essay demands that critics stop asking what works of art are saying. Instead, we need to concentrate on what art does."
+abstract: "Sontag’s essay demands that critics stop asking what works of art are saying. Instead, we need to concentrate on what art does—how photographs shape perception, moral response, and social reality."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
 
-# *On Photography* “In Plato’s Cave” (1973)
 
-# Susan Sontag
 
-## In the opening chapter of *On Photography*, Sontag outlines why she sees an inbuilt aggression in photography. She argues that photographs are complicit in the violence they depict, are morally ineffective and hamper our understanding of the world.
+In the opening chapter of *On Photography*, Sontag outlines why she sees an inbuilt aggression in photography. She argues that photographs are complicit in the violence they depict, are morally ineffective and hamper our understanding of the world.
 
 ## Reality
 
@@ -43,7 +54,7 @@ Sontag changes gears as she turns to examine the work of photojournalists. We ca
 
 It is worth quoting the essay at length:
 
-The omnipresence of cameras persuasively suggests that time consists of interesting events, events worth photographing. This, in turn, makes it easy to feel that any event, once underway, and whatever its moral character, should be allowed to complete itself—so that something else can be brought into the world, the photograph. After the event has ended, the picture will still exist, conferring on the event a kind of immortality (and importance) it would never otherwise have enjoyed. While real people are out there killing themselves or other real people, the photographer stays behind his or her camera, creating a tiny element of another world: the image-world that bids to outlast us all.
+>The omnipresence of cameras persuasively suggests that time consists of interesting events, events worth photographing. This, in turn, makes it easy to feel that any event, once underway, and whatever its moral character, should be allowed to complete itself—so that something else can be brought into the world, the photograph. After the event has ended, the picture will still exist, conferring on the event a kind of immortality (and importance) it would never otherwise have enjoyed. While real people are out there killing themselves or other real people, the photographer stays behind his or her camera, creating a tiny element of another world: the image-world that bids to outlast us all.
 
 Photographing an event is an act of non-intervention. Whatever the event, the value of the resulting photograph is placed above whatever is happening in the event. People can be allowed to die so long as their death can be documented through the birth of a photograph. The immortality of the image makes it seemingly more powerful than the ethical demand to intervene in the event. 
 
@@ -53,9 +64,7 @@ With this line of argument, Sontag rejects the possibility of standing to one si
 
 ## Morality
 
-One can imagine a photojournalist responding to the above argument by claiming that publishing images of other people’s pain and misery is a good way to stop it. They would likely argue for the morality of documenting violent events as a means of raising public awareness and therefore bringing about political change. But on the point of morality, Sontag is very clear: “Photographs cannot create a moral  
-position, but they can reinforce one.” In other words, photographs cannot engender new moral thoughts or ideas. If a photograph evokes a moral response, it is because it is tapping into a pre-existing moral stance. For example, Sontag mentions the famous 1972 photograph of a Vietnamese child during an American napalm attack. She concedes that it “probably did more to increase the public revulsion against  
-the war than a hundred hours of televised barbarities,” but also claims that the picture is only powerful in the context of an existing public concern about the Vietnam War. By contrast, she notes that photographs of the violence and devastation of the preceding Korean War (1950-53) were not widely published in America. “The public did not see such photographs'' she claims, “because there was, ideologically, no space for them.” In other words, since there was broad consensual support for the war, there was no political consciousness in which to frame the photographs. Sontag’s point is that photographs are not, in themselves, powerful enough to make new moral arguments.
+One can imagine a photojournalist responding to the above argument by claiming that publishing images of other people’s pain and misery is a good way to stop it. They would likely argue for the morality of documenting violent events as a means of raising public awareness and therefore bringing about political change. But on the point of morality, Sontag is very clear: “Photographs cannot create a moral position, but they can reinforce one.” In other words, photographs cannot engender new moral thoughts or ideas. If a photograph evokes a moral response, it is because it is tapping into a pre-existing moral stance. For example, Sontag mentions the famous 1972 photograph of a Vietnamese child during an American napalm attack. She concedes that it “probably did more to increase the public revulsion against the war than a hundred hours of televised barbarities,” but also claims that the picture is only powerful in the context of an existing public concern about the Vietnam War. By contrast, she notes that photographs of the violence and devastation of the preceding Korean War (1950-53) were not widely published in America. “The public did not see such photographs'' she claims, “because there was, ideologically, no space for them.” In other words, since there was broad consensual support for the war, there was no political consciousness in which to frame the photographs. Sontag’s point is that photographs are not, in themselves, powerful enough to make new moral arguments.
 
 Photographs can, however, shock. Sontag describes seeing photographs of the holocaust for the first time at age 12\. She describes the experience as wounding: “Nothing I have ever seen – in photographs or in real life – ever cut me as sharply, deeply, instantaneously.” This “negative epiphany” left her permanently damaged. The power of the images of concentration camps resides in their novelty. Nothing had prepared Sontag for the horrors of what she saw, but she claims that repeated exposure to images of the same event, no matter how horrific, have a numbing effect. 
 
@@ -69,14 +78,9 @@ For Sontag, the essence of understanding involves “*not* accepting the world a
 
 The mass production of photographs, however, creates the illusion of political or ethical knowledge:
 
-The omnipresence of photographs has an incalculable effect on our ethical sensibility. By furnishing this already crowded world with a duplicate one of images, photography makes us feel that the world is more available than it really is.
+>The omnipresence of photographs has an incalculable effect on our ethical sensibility. By furnishing this already crowded world with a duplicate one of images, photography makes us feel that the world is more available than it really is.
 
 Surrounded, as we are, by photographic images of the world, we have the impression that we know the world. After all, we know exactly what it looks like. But as we noted above, this is just “knowledge at bargain prices.” It is just the shallow and misleading surface form of things.
 
 Sontag closes by observing that photographs have turned us all into “image-junkies,” where “having an experience becomes identical with taking a photo of it.” In the end, the act of taking a photograph has replaced actually experiencing our lives as we live them. A sobering thought in our photograph-saturated age.
 
- 
-
-## 
-
-## 

@@ -1,17 +1,29 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Althusser's essay"
-tags: [Ideology and Ideological State Apparatuses, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "Ideology and Ideological State Apparatuses (1970) – Louis Althusser | alittlesense.org"
+metaDescription: "A detailed explanation of Louis Althusser’s Ideology and Ideological State Apparatuses, covering ideology, interpellation, and the role of institutions in reproducing capitalism."
+canonical: "https://alittlesense.org/articles/critical-theory/Ideology-and-Ideological-State-Apparatuses/"
+tags:
+  - Althusser
+  - Ideology and Ideological State Apparatuses
+  - ideology
+  - interpellation
+  - marxism
+  - critical-theory
 title:
   article: "Ideology and Ideological State Apparatuses (Notes Towards an Investigation)"
-  book:
   year: 1970
 author: "Louis Althusser"
 section: critical-theory
-pageTitle: 'alittlesense.org - Ideology and Ideological State Apparatuses ' 
-abstract: 
+abstract: "Althusser rethinks Marxist ideology by showing how institutions such as schools, families, and the media reproduce capitalism through ideology, constituting individuals as subjects via the process of interpellation."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 For Marx, capitalism is unimaginable without ideology. Put simply, if Marx is right then capitalism is a system whereby the vast majority of people are exploited by a much smaller group. Although Marx believes that this sort of unequal distribution of wealth and power will eventually and inevitably lead to its own destruction through revolution, his theory also needs to account for why, for most societies under capitalism, this has not yet happened. In other words, why is it that people allow themselves to be systematically exploited? Why do people continue to vote for an economic system which enslaves them? A big part of the answer to this question is ideology.
 

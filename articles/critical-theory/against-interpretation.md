@@ -1,14 +1,20 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Sontag's essay"
-tags: [Sontag, Against Interpretation, summary, "critical-theory"]
 title:
   article: "Against Interpretation"
   year: 1964
 author: "Susan Sontag"
 section: critical-theory
-pageTitle: 'alittlesense.org - Against Interpretation' 
+type: scholarly-article
+description: "Detailed summary and analysis of Sontag's essay"
+metaTitle: "Against Interpretation – Summary and Critical Analysis (Susan Sontag)"
+metaDescription: "A clear academic summary and critical analysis of Susan Sontag’s essay Against Interpretation, focusing on form, content, and anti-interpretive criticism."
 abstract: "Sontag’s essay demands that critics stop asking what works of art are saying. Instead, we need to concentrate on what art does."
+tags: [Sontag, Against Interpretation, summary, "critical-theory"]
+canonical: https://alittlesense.org/articles/critical-theory/Against-Interpretation
+schema:
+  type: ScholarlyArticle
+  isAccessibleForFree: true
 layout: base.njk
 ---
 
@@ -18,7 +24,7 @@ Sontag’s essay, then, stops us in our tracks. It is essential reading for theo
 
 By interpretation, Sontag means “a conscious act of the mind which illustrates a certain code, certain ‘rules’ of interpretation.” So while Sontag does not deny the idea above that all reading involves a degree of interpretation, she is opposed to interpreting in a programmed or strictly structured manner where the critic consciously decodes or “uncovers” hidden meaning in a text.
 
-### Form and content
+## Form and Content in Against Interpretation
 
 Sontag agrees with Walter Benjamin when she speculates that in prehistory, art was connected to the performance of magical rituals. One of the effects of theorizing about art, which she traces back to Plato, is the diminishing of art. By understanding art to be a mere representation of reality, Plato strips it of this magic, making it into a poor imitation of reality.
 
@@ -32,7 +38,7 @@ Interpretation gives rise to a binary division between form and content. Form is
 
 As with all binary divisions, one of the terms is privileged over the other. Sontag notes: “content comes first.” The first question that we ask of a work of art is “What is the content?” Or to put it another way, “What is X trying to say?” By concentrating on the content, we tend to neglect or undervalue the form of art. Instead of asking what the content of art is, Sontag argues that we should be thinking about what art does.
 
-### Marx and Freud
+## Marxism and Freudian interpretation
 
 Sontag points out that interpretation can be a conservative act. This is often the case when “for some reason a text has become unacceptable; yet it cannot be discarded.” Sontag gives the example of the biblical book “The Song of Songs.” She notes that the “clearly erotic” text has often been interpreted as having a spiritual rather than a sexual meaning. Since it is a part of the bible, there is no way to discard the text, and so interpretation is called in as a method of rendering the text more acceptable. In this sense, to interpret is to tame unwieldy texts.
 
@@ -46,7 +52,7 @@ Sontag labels both Marxism and psychoanalysis as aggressive forms of interpretat
 
 This sort of reading “indicates a dissatisfaction (conscious or unconscious) with the work, a wish to replace it by something else.” Here, Sontag claims that the interpretation becomes more important than the work of art itself. Moreover, she states that interpretation violates art in that it reduces it to a series of content items which can be categorized and organized in a rational attempt to bring order to art.
 
-### Reinstating the magic of the word
+## Reinstating the magic of the artwork
 
 Although Sontag concedes that it is impossible to “retrieve the innocence before all theory,” when people simply knew what works of art did (like in magical rituals), she observes that some works are complicit with interpretation while others resist it.
 
@@ -62,7 +68,7 @@ Just as pop art simply is what it is, so film, in its directness, can head off t
 
 Here, we see Sontag in dialogue with Benjamin who also writes about film. In contrast to Benjamin, who thinks that film can be put into the service of Marxism by revealing the true social conditions, Sontag believes that film should be all about surface.
 
-### Recovering the senses
+## Recovering the senses
 
 Sontag claims that “transparence is the highest, most liberating value in art.” By this she means the act of seeing something simply as it is. In a sense, her argument is one against intellectualism (at one point, she describes interpretation as “the revenge of the intellect upon art”). Instead of thinking about art, she advocates a sensory experience. It is not that we should stop writing about art, but when we do, it should be in order to “reveal the sensuous surface of art.”
 

@@ -1,16 +1,33 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Feaver's poem"
-tags: [Feaver, The Gun, summary, "poetry"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "The Gun – Viki Feaver | alittlesense.org"
+metaDescription: "A detailed analysis of Viki Feaver’s poem 'The Gun', exploring moral ambiguity, the thrill of death, and the poem’s engagement with violence and domesticity."
+canonical: "https://alittlesense.org/articles/poetry/The-Gun/"
+tags:
+  - The Gun
+  - Viki Feaver
+  - poetry
+  - summary
+  - analysis
+  - morality
+  - death
+  - violence
+  - domesticity
 title:
   article: "The Gun"
-  year: 
+  year: 1994
+  book: null
 author: "Viki Feaver"
 section: poetry
-pageTitle: 'alittlesense.org - The Gun' 
-abstract:
+abstract: "An analysis of Feaver’s 'The Gun', examining the poem’s exploration of moral ambiguity, the allure of death, and the domestic transformation induced by violence."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 ## On moral ambiguity
 

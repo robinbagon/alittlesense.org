@@ -1,23 +1,36 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Fanon's essay"
-tags: [ Wretched of the Earth, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "On Violence (1961) – Franz Fanon | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Franz Fanon’s essay 'On Violence' from The Wretched of the Earth, exploring colonialism, revolutionary struggle, and the role of violence in decolonization."
+canonical: "https://alittlesense.org/articles/critical-theory/On-Violence/"
+tags:
+  - Fanon
+  - Wretched of the Earth
+  - colonialism
+  - violence
+  - critical-theory
+  - decolonization
 title:
   article: "On Violence"
   book: "The Wretched of the Earth"
   year: 1961
 author: "Franz Fanon"
 section: critical-theory
-pageTitle: 'alittlesense.org - On Violence' 
-abstract: "Fanon argues that decolonization can only be accomplished by appropriating colonial violence and directing it against the colonizers."
+abstract: "Fanon argues that decolonization can only be accomplished through revolutionary violence, critiquing colonial society, counter-revolutionary forces, and the limitations of compromise or moral restraint."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 “On Violence” is one of the most controversial texts in the canon of critical theory. Its uncompromising thesis is that decolonization can only be achieved through violent means. It is a literal call to arms and has inspired violent anti-colonial fighters the world over. Many in the humanities are disturbed by the text; most famously the German philosopher Hannah Arendt takes Fanon to task. Yet the text continues to be read. “On Violence” demands our attention, not just because it was written by the author of *Black Skin White Masks* and not just because Fanon dedicated his life to the struggle against decolonization in French-controlled Algeria, but because the fight against colonization remains a source of violence today and the legitimacy of violent responses to colonial power remains contested.
 
 Colonization involves the control of a geographical space by another power. Fanon is primarily focused on the French colonization of Algeria which lasted between 1830 and 1962\. As Fanon wrote the text, Algeria was in the final stages of The Algerian War which led to Algeria securing independence from France. 
 
-### The nature of colonialism
+## The nature of colonialism
 
 “The colonized world is a world divided in two.” Colonial society splits humans into colonizer and colonized; foreigner and local; powerful and powerless. This logic is so deep and so absolute that Fanon describes the two groups as comprising different species. This division has no middle ground; each individual is on one side or the other of this absolute divide and is locked in violent confrontation. Since colonizers are of a different race from the colonized, the division is also a racial division. Colonialism is therefore structurally racist. 
 
@@ -27,7 +40,7 @@ The divided nature of the colony is in fact so profound that Fanon makes an exce
 
 The divided, or manichean, nature of the colony is what leads Fanon to his conclusion that only violence can end colonialism. Since individuals in the colony are automatically divided into colonizer or colonized, there can be no middle ground between them. There is no space for the sharing of principles or working together for mutual benefit. There is no shared purpose in the colony. The colony cannot be improved or reformed. There is no way to slowly emancipate the colonized. Instead, the system must be smashed and utterly destroyed. Decolonization means the inversion of the positions of colonist and colonized. Fanon’s refrain, borrowed from the “Book of Matthew,” is the demand that “the last become the first.”
 
-### No middle ground
+## No middle ground
 
 Fanon believes that a compromise between the colonized and the colonizer is impossible. For this reason, he is absolutely against any form of activity which works with the colonizers, even if its goal is the end of colonization.
 
@@ -35,7 +48,7 @@ He is scathing, for example, in his depiction of colonized intellectuals. Fanon 
 
 A product of the intellectual class are political parties and Fanon is equally dismissive of these. His primary concern is that political parties, even when opposed to colonialism, are not properly revolutionary. Instead of aiming at overthrowing the colonial regime, they aim at reform – yet the manichean world of the colony cannot be reformed. Most crucially for Fanon, they shun and often condemn violence. He sees these parties as representing the interests of a small group of people like teachers and shopkeepers “who have begun to profit from the colonial situation.” Fanon’s uncompromising goals are for the complete overthrow of colonialism so that all people can live freely, not just a small class of “individually liberated slaves.”
 
-### Counter-revolutionary factors
+## Counter-revolutionary factors
 
 “The muscles of the colonized are always tensed.” Fanon claims that the violent and oppressive nature of the colony means that the colonized population are in a constant state of alert, a perpetual heightened state of rage. For Fanon, the appropriate way to release this tension is in revolutionary violence, but he notes that there are other, less productive ways for this violence to become manifest.  
 
@@ -43,7 +56,7 @@ This rage can be the cause of violence between different tribes, clans or indivi
 
 Additionally, dance is counter-revolutionary. Ritualised dance allows people to channel and release their pent-up violence. As Fanon writes, “their most brutal aggressiveness and impulsive violence are channeled, transformed and spirited away” through dance. In this way, dance can act as a release valve for violence, and therefore operates in the service of the colonial regime.
 
-### Revolution
+## Revolution
 
 Fanon sees colonialism as sowing the seeds of its own downfall. “The symbols of society such as the police force, bugle calls in the barracks, military parades, and the flag flying aloft, serve not only as inhibitors but also as stimulants.” The violence of the colonial regime inspires the violence which is required to defeat it. As Fanon states, anti-colonial violence is a kind of self-fulfilling prophecy: “the very same people who had it constantly drummed into them that the only language they understood was that of force, now decide to express themselves with force.”
 

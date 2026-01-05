@@ -1,17 +1,30 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Butler's essay"
-tags: [Performative Acts and Gender Constitution, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "Performative Acts and Gender Constitution (1988) – Judith Butler | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Judith Butler’s essay 'Performative Acts and Gender Constitution', exploring the idea that gender is a social performance rather than an essential trait."
+canonical: "https://alittlesense.org/articles/critical-theory/Performative-Acts-and-Gender-Constitution/"
+tags:
+  - Butler
+  - Performative Acts and Gender Constitution
+  - gender
+  - performativity
+  - queer-theory
+  - critical-theory
 title:
   article: "Performative Acts and Gender Constitution"
   book:
   year: 1988
 author: "Judith Butler"
 section: critical-theory
-pageTitle: 'alittlesense.org - Performative Acts and Gender Constitution' 
-abstract: "In this groundbreaking work of queer theory, Judith Butler argues that there is nothing essential about gender, rather it is a stylized set of performances which are socially prescribed."
+abstract: "Butler argues that gender is not an essential characteristic but a socially constructed set of repeated performances, creating the illusion of a natural or innate gender identity and opening the possibility for subversive reconfigurations of gender norms."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 ## What is gender?
 
@@ -61,6 +74,3 @@ To sum up, we can read the final sentence of the essay:
 
 Here, Butler once again points to the tensions of gender performance. On the one hand, since there is nothing real about gender, one is free to “put on” whatever gender one wants to perform. On the other hand, there are real and potentially violent social constraints to the performance of gender. These conflicts form a [site of fear and pleasure](https://www.alittlesense.org/foucault-the-history-of-sexuality-summary). Butler advocates for the subversive performance of gender since this will inevitably shake up heteronormativity. In further essays, Butler explores, for example, how drag artists reveal the performative aspects of gender.   
  
-
-  
-

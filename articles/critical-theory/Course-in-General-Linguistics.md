@@ -1,16 +1,28 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Saussure's theory"
-tags: [Saussure, Course in General Linguistics, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "Course in General Linguistics (1916) – Ferdinand de Saussure | alittlesense.org"
+metaDescription: "An accessible explanation of Ferdinand de Saussure’s Course in General Linguistics, covering the sign, arbitrariness, and language as a system of differences."
+canonical: "https://alittlesense.org/articles/critical-theory/Course-in-General-Linguistics/"
+tags:
+  - Saussure
+  - Course in General Linguistics
+  - structuralism
+  - linguistics
+  - critical-theory
 title:
   book: "Course in General Linguistics"
   year: 1916
 author: "Ferdinand de Saussure"
 section: critical-theory
-abstract:
-pageTitle: 'alittlesense.org - Course in General Linguistics' 
+abstract: "This article explains Ferdinand de Saussure’s foundational theory of language, focusing on the sign, the arbitrariness of the signifier, and the idea that meaning arises from a system of differences rather than from reference to pre-existing concepts."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 
 Ferdinand de Saussure casts a huge shadow over much of 20th century theory. His insights about language inspired the structuralist approach to theory which in turn led to poststructuralism. Getting your head around Saussure’s basic ideas is therefore crucial for a more general understanding of theory. This article explains the more important point from Saussure’s thought, that language is a system of differences with no positive terms.
@@ -45,7 +57,7 @@ We now have all of the pieces of Saussure’s argument. We can list them as foll
 
 To examine this in more detail, let’s read a key passage from Saussure:
 
-In language there are only differences. Even more important: a difference generally implies positive terms between which the difference is set up; but in language there are only differences without positive terms. Whether we take the signified or the signifier, language has neither ideas nor sounds that existed before the linguistic system, but only conceptual and phonic differences that have issued from the system.
+>In language there are only differences. Even more important: a difference generally implies positive terms between which the difference is set up; but in language there are only differences without positive terms. Whether we take the signified or the signifier, language has neither ideas nor sounds that existed before the linguistic system, but only conceptual and phonic differences that have issued from the system.
 
 Language is a system of differences without positive terms. We can examine this claim in terms of the signified first. Ideas, Saussure states, do not exist outside of language. Taking the color green, we only have an idea of green in terms of its difference from other color terms. Green is green because it is not blue and because it is not yellow. We know of green not for what it is, but for what it is not. Where it not for the wider system of language, there would be no way of differentiating green from the other colors. In addition, if the color spectrum had been divided into six rather than seven colors, and there was no green, then the idea of blue and the idea of yellow would be expanded to encompass what we currently think of as green. Another way of thinking about this is to consider that there is no one shade of green. Green covers a wide range of shades such that it is not possible to say precisely what green is. It is only possible to state what it is not – it is neither blue nor yellow.
 

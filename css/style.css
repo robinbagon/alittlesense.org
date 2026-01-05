@@ -433,7 +433,7 @@ header nav a:hover {
 }
 
 .site-logo {
-  max-width: 670px; /* adjust size */
+  width: min(670px, 90vw);
   height: auto;
 }
 

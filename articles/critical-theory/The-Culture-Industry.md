@@ -1,17 +1,31 @@
 ---
 date: 2024-05-20
-description: "Detailed summary and analysis of Horkheimer and Adorno's essay"
-tags: [The Culture Industry, summary, "critical-theory"]
+lastUpdated: 2024-05-20
+type: article
+metaTitle: "The Culture Industry (1944) – Horkheimer & Adorno | alittlesense.org"
+metaDescription: "A detailed summary and analysis of Horkheimer and Adorno’s 'The Culture Industry: Enlightenment as Mass Deception', exploring how mass culture under capitalism functions as a tool of social control, standardization, and ideological domination."
+canonical: "https://alittlesense.org/articles/critical-theory/The-Culture-Industry/"
+tags:
+  - Horkheimer
+  - Adorno
+  - The Culture Industry
+  - critical-theory
+  - mass-culture
+  - capitalism
+  - ideology
 title:
   article: "The Culture Industry: Enlightenment as Mass Deception"
-  book: ""
+  book: "The Dialectic of Enlightenment"
   year: 1944
 author: "Max Horkheimer and Theodor Adorno"
 section: critical-theory
-pageTitle: 'alittlesense.org - The Culture Industry' 
-abstract: "Horkheimer and Adorno argue that the roots of totalitarianism are to be found in enlightenment thinking and that mass culture under capitalism is an all-powerful force of social control"
+abstract: "Horkheimer and Adorno argue that the roots of totalitarianism lie in enlightenment thought and that mass culture under capitalism functions as a totalizing instrument of social control, standardizing cultural products and disciplining consumers."
+schema:
+  "@type": "ScholarlyArticle"
+isAccessibleForFree: true
 layout: base.njk
 ---
+
 
 
 “The Culture Industry” is a chapter from Horkheimer and Adorno’s book *The Dialectic of Enlightenment*. To properly understand the essay, we need to get a sense of the wider project of the book and to do this, we can start by historically situating its authors. Horkheimer and Adorno wrote *The Dialectic of Enlightenment* in exile. Both of them German Jews, they fled Nazi Germany and settled in the US. In many ways then, the book is a response to fascism as it seeks to explain how western civilization managed to produce the unparalleled horrors of the second world war.
