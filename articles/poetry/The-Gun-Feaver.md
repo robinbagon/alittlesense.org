@@ -4,7 +4,7 @@ lastUpdated: 2024-05-20
 type: article
 metaTitle: "The Gun – Viki Feaver | alittlesense.org"
 metaDescription: "A detailed analysis of Viki Feaver’s poem 'The Gun', exploring moral ambiguity, the thrill of death, and the poem’s engagement with violence and domesticity."
-canonical: "https://alittlesense.org/articles/poetry/The-Gun/"
+canonical: "https://alittlesense.org/articles/poetry/The-Gun-Feaver/"
 tags:
   - The Gun
   - Viki Feaver

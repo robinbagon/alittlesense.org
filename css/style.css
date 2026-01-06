@@ -186,7 +186,7 @@ footer {
 header nav a {
   display: inline-block;
   margin-top: 0.5rem;
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: #2a4d8f;
   text-decoration: none;
   transition: color 0.2s;
