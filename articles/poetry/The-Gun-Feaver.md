@@ -55,7 +55,7 @@ Which brings us to the final image of the poem. The narrator confesses to (boast
 
 The reason for the excitement builds on an earlier idea in the poem which finds a kind of energy or renewal in death. So the final image sees new life in the form of spring flowers sprouting from the mouth of the King of Death. The narrator is suggesting less that winter brings spring than winter *is* spring. Death co-exists with springtime renewal. Indeed the two must be read together. As George Orwell might have written, death is life.
 
-So by the end of the poem, the narrator has transitioned 180 degrees, from finding the killing of animals abhorrent, to finding it exciting and invigorating. She has acknowledged the cruelty of killing and embraced. She has recognised evil and identified with it. It all happens so fast, in the short and sparse poem that the reader is left not knowing quite what to make of it all.
+So by the end of the poem, the narrator has transitioned 180 degrees, from finding the killing of animals abhorrent, to finding it exciting and invigorating. She has acknowledged the cruelty of killing and embraced it. She has recognised evil and identified with it. It all happens so fast, in the short and sparse poem that the reader is left not knowing quite what to make of it all.
 
 The final ambiguity of the poem lies in that we do not really know what the poem wants with the moral aberration at its heart. There is no hint of a guiding opinion outside that of the narrator and in this sense, the force of the poem guides us towards accepting her account. This would cast the poem in the tradition of notorious art movements like the Futurists who famously celebrated war.
 

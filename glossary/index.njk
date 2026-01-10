@@ -1,0 +1,25 @@
+---
+title: Glossary
+layout: base.njk
+showCoffee: false
+---
+
+<article class="glossary-index">
+
+  <h1>Glossary</h1>
+
+  <ul class="glossary-list">
+    {% for term in collections.glossary %}
+      <li class="glossary-item">
+        <a href="{{ term.url }}">
+          <span class="term-title">{{ term.data.title }}</span>
+          {% if term.data.short %}
+            <span class="term-desc">{{ term.data.short }}</span>
+          {% endif %}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</article>
+

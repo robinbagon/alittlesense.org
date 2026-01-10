@@ -1,0 +1,21 @@
+---
+layout: base.njk
+showCoffee: false
+showHomeLink: false
+---
+
+<article class="glossary-term">
+
+  <h1>{{ title }}</h1>
+
+  <div class="glossary-content">
+    {{ content | safe }}
+  </div>
+
+  <nav class="glossary-nav">
+    <a href="javascript:history.back()">← Back to article</a>
+    <span class="separator">·</span>
+    <a href="/glossary/">Glossary index</a>
+  </nav>
+
+</article>

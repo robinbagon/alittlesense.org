@@ -7,6 +7,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPlugin(pluginSitemap);
 
+eleventyConfig.addCollection("glossary", function (collectionApi) {
+  return collectionApi.getAll()
+    .filter(item => item.data.section === "glossary");
+});
 
 
   // Helper for sorting titles

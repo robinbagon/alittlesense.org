@@ -30,7 +30,7 @@ layout: base.njk
 ---
 
 
-The concept of “the male gaze” describes the visual presentation of women for the pleasure of the male heterosexual viewer. Under the male gaze, women are positioned as passive objects, subject to the controlling view of a man. Examples can be found in paintings, statues and movies. Mulvey takes the movies of Golden Age Hollywood (1927-1960) and examines how the male gaze makes films pleasurable for male viewers. She enriches the theory of looking by making use of psychoanalytic theory, specifically Freud’s ideas around scopophilia and castration, and Lacan’s theory of the mirror stage.
+The concept of “the male gaze” describes the visual presentation of women for the pleasure of the male heterosexual viewer. Under the male gaze, women are positioned as passive objects, subject to the controlling view of a man. Examples can be found in paintings, statues and movies. Mulvey takes the movies of Golden Age Hollywood (1927-1960) and examines how the male gaze makes films pleasurable for male viewers. She enriches the theory of looking by making use of psychoanalytic theory, specifically Freud’s ideas around scopophilia and castration, and Lacan’s theory of the [mirror stage]({{ '/glossary/the-mirror-stage/' | url }}).
 
 ## Scopophilia and the Mirror Stage
 
@@ -52,7 +52,7 @@ On the other hand, men are active. The narrative of films tends to be driven by 
 
 Following Freud, Mulvey claims that women on screen are also a source of anxiety for the male viewer. This relates to the castration complex which is said to lurk in the male unconscious. Freud claims that women’s lack of a penis causes young boys to fear that they too may, one day, be castrated. In this sense, there is a kind of built in fear and displeasure which is attached to women.
 
-So if movies are to use women in order to generate visual pleasure for the male viewer, the threat of castration will need to be neutralized. Mulvey suggests that movies can do this in two ways. One is to sadistically demystify a female character, to uncover her secrets and therefore to remove any power that she might have over the viewer. The woman will lose a battle of wills and be forced to change. This is typically what happens to the *femme fatale* in *film noir*. The other method is to turn the woman into a fetish object. This is to elevate the physical beauty of the woman to the point of overwhelming satisfaction for the viewer.
+So if movies are to use women in order to generate visual pleasure for the male viewer, the threat of castration will need to be neutralized. Mulvey suggests that movies can do this in two ways. One is to sadistically demystify a female character, to uncover her secrets and therefore to remove any power that she might have over the viewer. The woman will lose a battle of wills and be forced to change. This is typically what happens to the *femme fatale* in *film noir*. The other method is to turn the woman into a [fetish]({{ '/glossary/fetish/' | url }}) object. This is to elevate the physical beauty of the woman to the point of overwhelming satisfaction for the viewer.
 
 Mulvey then details how the films of Josef von Sternberg tend to treat women as fetish objects, while Alfred Hitchock movies also demystify female characters. 
 

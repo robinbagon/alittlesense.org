@@ -33,8 +33,8 @@ layout: base.njk
 
 “Please Hold” performs the maddening, violence-inducing frustration of being trapped in a loop. It is a poem, explicitly about experiencing the same thing over and over and we find ourselves trapped in this cycle from the get go:
 
->This is the future, my wife says.
->We are already there, and it’s the same
+>This is the future, my wife says.  
+>We are already there, and it’s the same  
 >as the present. Your future, here, she says.
 
 “This is the future” means that we are currently in the future. 1\. “We are already there” means that we are already in the future. 2\. “It’s the same as the present” means that the future and the present are the same. 3\. “Your future, here” means that you are currently in the future. 4\. In short, in three short lines we have the same idea expressed four times. And just to hammer home the sense of repetition, the first and third lines end with the same word, while the second line actually ends with the word “same.” This is not to mention that the same lines appear again midway through the poem.

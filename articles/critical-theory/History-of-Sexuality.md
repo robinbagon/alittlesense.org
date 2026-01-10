@@ -32,7 +32,7 @@ Foucault’s thesis is that the repressive hypothesis is wrong. In contrast to t
 
 ## Confession
 
-The first discourse considered by Foucault is the Catholic confession. He notes that the scope of the confession increased dramatically to include all elements of not only the sexual act but also sexual desire. Confessors were even required to give an account of their sexual dreams. In this way, desire was transformed into discourse.
+The first [discourse]({{ '/glossary/discourse/' | url }}) considered by Foucault is the Catholic confession. He notes that the scope of the confession increased dramatically to include all elements of not only the sexual act but also sexual desire. Confessors were even required to give an account of their sexual dreams. In this way, desire was transformed into discourse.
 
 Next, Foucault traces “the great process of transforming sex into discourse” to literary works which seek to give an exhaustive account of sex and desire. In particular, he mentions the works of the Marquis de Sade (1740-1814) and an English text, *My Secret Life* (1888), which, over 4000 pages, gives a highly detailed account of the sexual activities and desires of its author. Foucault draws a direct line between the Catholic confession and these books which both follow the “injunction to talk about sex.”
 
