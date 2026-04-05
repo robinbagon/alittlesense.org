@@ -15,7 +15,7 @@ tags:
   - memory
   - critical-theory
 title:
-  article: "Regarding the Pain of Others"
+  article:
   book: "Regarding the Pain of Others"
   year: 2003
 author: "Susan Sontag"
